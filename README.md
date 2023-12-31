@@ -1,5 +1,5 @@
 *still documenting
-# ecipe Collection Application
+# Recipe Collection
 
 The Recipe Collection Application is a comprehensive platform that allows users to create, store, and manage their recipes seamlessly. Built with Spring Boot for the backend and React.js for the frontend, this application combines robust security measures with an intuitive user interface.
 
