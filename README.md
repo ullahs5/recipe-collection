@@ -8,10 +8,10 @@ Users can create accounts, log in securely, and take advantage of the Spring Boo
 ---
 
 ## Features
-- User Authentication: Secure account creation and login functionality using Spring Boot security.
-- Recipe Upload: Easily upload recipes with detailed ingredient lists, measurements, and instructions.
-- Media Attachment: Save photos and images alongside recipes for visual reference.
-- Account-Based Storage: Store and manage uploaded recipes securely within user accounts.
+- **User Authentication:** Secure account creation and login functionality using Spring Boot security.
+- **Recipe Upload:** Easily upload recipes with detailed ingredient lists, measurements, and instructions.
+- **Media Attachment:** Save photos and images alongside recipes for visual reference.
+- **Account-Based Storage:** Store and manage uploaded recipes securely within user accounts.
 
 ---
 
