@@ -15,7 +15,7 @@ Users can create accounts, log in securely, and take advantage of the Spring Boo
 
 ---
 
-## Development
+## Installation
 ### Backend (Spring Boot)
 [Provide instructions for setting up the Spring Boot backend and contributing to its development.]
 
