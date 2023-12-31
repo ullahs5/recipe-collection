@@ -1,5 +1,5 @@
 *still documenting
-#Recipe Collection Application
+# ecipe Collection Application
 
 The Recipe Collection Application is a comprehensive platform that allows users to create, store, and manage their recipes seamlessly. Built with Spring Boot for the backend and React.js for the frontend, this application combines robust security measures with an intuitive user interface.
 
@@ -7,7 +7,7 @@ Users can create accounts, log in securely, and take advantage of the Spring Boo
 
 ---
 
-##Features
+## Features
 User Authentication: Secure account creation and login functionality using Spring Boot security.
 Recipe Upload: Easily upload recipes with detailed ingredient lists, measurements, and instructions.
 Media Attachment: Save photos and images alongside recipes for visual reference.
@@ -19,16 +19,16 @@ For optimal usage, consider running the application locally to experience all fu
 
 ---
 
-##Development
+## Development
 ###Backend (Spring Boot)
 [Provide instructions for setting up the Spring Boot backend and contributing to its development.]
 
-###Frontend (React.js)
+### Frontend (React.js)
 [Include guidelines for setting up the React.js frontend and contributing to its development.]
 
 ---
 
-##Roadmap
+## Roadmap
 Improved Recipe Categorization: Implement category tagging for recipes.
 Enhanced Search Functionality: Introduce a more robust search feature for easier recipe discovery.
 User Interaction Features: Enable user comments and ratings for shared recipes.
