@@ -20,7 +20,7 @@ For optimal usage, consider running the application locally to experience all fu
 ---
 
 ## Development
-###Backend (Spring Boot)
+### Backend (Spring Boot)
 [Provide instructions for setting up the Spring Boot backend and contributing to its development.]
 
 ### Frontend (React.js)
