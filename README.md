@@ -23,12 +23,3 @@ Users can create accounts, log in securely, and take advantage of the Spring Boo
 -
 
 ---
-
-## Roadmap
-Improved Recipe Categorization: Implement category tagging for recipes.
-Enhanced Search Functionality: Introduce a more robust search feature for easier recipe discovery.
-User Interaction Features: Enable user comments and ratings for shared recipes.
-Mobile Application Development: Extend the application's reach by developing a mobile app version.
-Feel free to adjust the sections and details according to your project's specifics and requirements.
-
----
