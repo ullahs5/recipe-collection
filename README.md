@@ -17,10 +17,10 @@ Users can create accounts, log in securely, and take advantage of the Spring Boo
 
 ## Installation
 ### Backend (Spring Boot)
-[Provide instructions for setting up the Spring Boot backend and contributing to its development.]
+-
 
 ### Frontend (React.js)
-[Include guidelines for setting up the React.js frontend and contributing to its development.]
+-
 
 ---
 
